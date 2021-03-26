@@ -1,0 +1,8 @@
+@import "derecha";
+@import "izquierda";
+
+body{
+    justify-content: center;
+    display: flex;
+    background-color: $color5;
+}

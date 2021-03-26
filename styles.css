@@ -1,0 +1,30 @@
+.derecho {
+  background-color: #965ac7;
+  color: #242424;
+  font-family: "VALORANT", sans-serif;
+  font-size: 15px;
+  width: 50%;
+  height: 500px;
+  text-align: right;
+}
+
+.izquierdo {
+  background-color: #ec5f5f;
+  color: #fff;
+  font-family: "Comfortaa", cursive;
+  font-size: 20px;
+  width: 50%;
+  height: 800px;
+  text-align: justify;
+}
+
+body {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #22c730;
+}
+/*# sourceMappingURL=styles.css.map */
